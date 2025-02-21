@@ -1,6 +1,6 @@
 ### Project Notes
 
-- to run the project: npm start
+- To run the project: npm start
 - npm install react-router-dom
 - Setup routing app.js using react-router-dom
 - Create StudentTable component and use in app.js
@@ -13,3 +13,5 @@
 - when we click on view, it will be redirected to specific id, and that id we can extract using useParams hook in view details page.
 - Copy the content from createStudent to EditStudent file
 - - for delete, copy the fetch function from editStudent into StudentTable file RemoveDetail function
+ 
+  - ![Landing Page]('./public/images/landingpage.png')
