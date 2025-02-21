@@ -12,6 +12,11 @@
 - in form, we give htmlFor and id, so that it will be on focus
 - when we click on view, it will be redirected to specific id, and that id we can extract using useParams hook in view details page.
 - Copy the content from createStudent to EditStudent file
-- - for delete, copy the fetch function from editStudent into StudentTable file RemoveDetail function
+- For delete, copy the fetch function from editStudent into StudentTable file RemoveDetail function
  
-  - ![Landing Page]('./public/images/landingpage.png')
+  - ![Landing Page](https://github.com/HSarfaraz/CRUD-React/blob/main/public/images/adddetails.png)
+  - ![Landing Page](https://github.com/HSarfaraz/CRUD-React/blob/main/public/images/viewdetails.png)
+  - ![Landing Page](https://github.com/HSarfaraz/CRUD-React/blob/main/public/images/editdetails.png)
+  - ![Landing Page](https://github.com/HSarfaraz/CRUD-React/blob/main/public/images/deletedetail.png)
+  - ![Landing Page](https://github.com/HSarfaraz/CRUD-React/blob/main/public/certificate.jpg)
+ 
